@@ -1,1 +1,190 @@
-/* Your styles go here */
+body{
+	margin: 0px;
+	font-family:"open sans"sans-serif;
+}
+h1,
+h2,
+h3 {
+
+    letter-spacing: 0.4px;
+    font-family: "Work Sans", Sans-serif;
+    color: #41B343;
+}
+h1{
+	text-align:center;
+}
+
+.header{
+padding-top:5px;
+padding-bottom:20px;
+width: 100%;
+height: 90%;
+background: rgba(0, 0, 0, 0.95);
+
+	}
+.header img{
+	float: left;
+}
+.header h3{
+	text-align:center;
+	font-size:14px;
+}
+.header ul li{
+float:right;
+width:100px;
+height:50px;
+font-family:Work-sans;
+font-size:14px;
+font-weight:bold;
+font-style:normal;
+
+}
+.header ul li a{
+  color: #41B343;	
+}
+.header button{
+margin-left:620px;
+color: #41B343;
+background-color:#000000;
+border:3px solid #41B343; 
+box-sizing:border-box;
+display:flex;
+}
+.us{
+	display:flex;
+	justify-content:center;
+}
+
+
+.about button{
+
+margin-left:700px;
+color: #41B343;
+background-color:#000000;
+border:3px solid #000000; 
+box-sizing:border-box;
+
+}
+.about p{
+	margin-left:30px;
+
+}
+
+.skills{
+	background: rgba(0, 0, 0, 0.95);
+}
+.button {
+	background-color: #41B343; /* Green */
+	border: none;
+	color: white;
+	padding: 6px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: 5px 2px;
+	cursor: pointer;
+	margin-top:20px;
+  }
+  
+  .button1 {width: 400%;height:30px}
+  .button2 {width: 350%;height:30px}
+  .button3 {width: 400%;height:30px}
+  .button4 {width: 250%;height:30px}
+  .head{
+	display:inline;
+	padding: 3px 12px;
+	margin: 40px;
+	font-size: 20px;
+	margin-bottom:30px;
+	margin-top:20px;
+  }
+  .skill{
+	display:flex;
+	 
+  }
+
+.all{
+	display:flex;
+}
+.html{
+	display:inline;
+	margin-left:50px;
+
+}
+.css{
+	display:inline;
+	margin-left:50px;
+
+}
+.boot{
+	display:inline;
+	margin-left:50px;
+
+}
+.js{
+	display:inline;
+	margin-left:50px;
+
+}
+.alls{
+	display:flex;
+	
+}
+.social{
+	display:inline;
+	margin-left:60px;
+}
+.location{
+	display:inline;
+	margin-left:100px;
+}
+.form{
+	
+	margin-left:230px;
+	margin-top:40px;
+}
+.form button{
+  padding-right:80px;
+  text-align:center;
+}
+
+.contact{
+	background: rgba(0, 0, 0, 0.95);
+
+}
+.contact label{color: #41B343;
+    margin: 0;
+    font-size: 20px;
+   
+    font-weight: 500;
+    letter-spacing: 1.6px;
+
+}
+.contact button{
+	background-color: #41B343;
+	display:flex;
+
+}
+
+.footer {
+    padding: 30px;
+background:#141313;
+        
+}
+
+.footer p {
+    color: #41B343;
+    margin: 0;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 500;
+    letter-spacing: 1.6px;
+	text-align:center;
+
+}
+
+.footer p a {
+    color: #fff;
+}
+
